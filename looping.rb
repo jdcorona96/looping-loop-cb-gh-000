@@ -1,5 +1,10 @@
 def looping
-	#your code here
+    loop do
+      puts "hola amigos."
+    end
 end
+
+
+looping
 
 #call your method here
